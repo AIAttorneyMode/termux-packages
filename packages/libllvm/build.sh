@@ -4,8 +4,8 @@ TERMUX_PKG_LICENSE="Apache-2.0, NCSA"
 TERMUX_PKG_LICENSE_FILE="llvm/LICENSE.TXT"
 TERMUX_PKG_MAINTAINER="@finagolfin"
 # Keep flang version and revision in sync when updating (enforced by check in termux_step_pre_configure).
-TERMUX_PKG_VERSION="22.1.1"
-TERMUX_PKG_SHA256=9c6f37f6f5f68d38f435d25f770fc48c62d92b2412205767a16dac2c942f0c95
+TERMUX_PKG_VERSION="22.1.2"
+TERMUX_PKG_SHA256=62f2f13ff25b1bb28ea507888e858212d19aafb65e8e72b4a65ee0629ec4ae0c
 TERMUX_PKG_AUTO_UPDATE=false
 TERMUX_PKG_SRCURL="https://github.com/llvm/llvm-project/releases/download/llvmorg-${TERMUX_PKG_VERSION}/llvm-project-${TERMUX_PKG_VERSION}.src.tar.xz"
 TERMUX_PKG_HOSTBUILD=true
@@ -123,6 +123,16 @@ termux_step_pre_configure() {
 termux_step_post_configure() {
 	TERMUX_PKG_SRCDIR="$TERMUX_SRCDIR_SAVE"
 	unset TERMUX_SRCDIR_SAVE
+}
+
+termux_step_make() {
+	if [[ "$TERMUX_PKG_CMAKE_BUILD" == "Ninja" ]]; then
+		ninja -j "$TERMUX_PKG_MAKE_PROCESSES"
+		ninja -j "$TERMUX_PKG_MAKE_PROCESSES" lldb-tblgen
+	else
+		make -j "$TERMUX_PKG_MAKE_PROCESSES"
+		make -j "$TERMUX_PKG_MAKE_PROCESSES" lldb-tblgen
+	fi
 }
 
 # shellcheck disable=SC2031
