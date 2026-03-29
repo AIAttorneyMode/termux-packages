@@ -3,14 +3,14 @@ TERMUX_PKG_DESCRIPTION="LLVM's Fortran frontend"
 TERMUX_PKG_LICENSE="Apache-2.0"
 TERMUX_PKG_LICENSE_FILE="flang/LICENSE.TXT"
 TERMUX_PKG_MAINTAINER="@termux"
-TERMUX_PKG_VERSION="22.1.1"
+TERMUX_PKG_VERSION="22.1.2"
 TERMUX_PKG_SRCURL=(
 	"https://github.com/llvm/llvm-project/releases/download/llvmorg-${TERMUX_PKG_VERSION}/llvm-project-${TERMUX_PKG_VERSION}.src.tar.xz"
 	"https://github.com/llvm/llvm-project/releases/download/llvmorg-${TERMUX_PKG_VERSION}/LLVM-${TERMUX_PKG_VERSION}-Linux-X64.tar.xz"
 )
 TERMUX_PKG_SHA256=(
-	9c6f37f6f5f68d38f435d25f770fc48c62d92b2412205767a16dac2c942f0c95
-	efc4d945744f951df00ec72c5b31da5d5a2eaf1d53cc7c9d0644f93f0f9e817d
+	62f2f13ff25b1bb28ea507888e858212d19aafb65e8e72b4a65ee0629ec4ae0c
+	ff32497b6801267ee427bc69cdaeecfb2d19578af8c2a942e864c45215f9a2ac
 )
 TERMUX_PKG_AUTO_UPDATE=false
 TERMUX_PKG_HOSTBUILD=true
