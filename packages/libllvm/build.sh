@@ -125,16 +125,6 @@ termux_step_post_configure() {
 	unset TERMUX_SRCDIR_SAVE
 }
 
-termux_step_make() {
-	if [[ "$TERMUX_PKG_CMAKE_BUILD" == "Ninja" ]]; then
-		ninja -j "$TERMUX_PKG_MAKE_PROCESSES"
-		ninja -j "$TERMUX_PKG_MAKE_PROCESSES" lldb-tblgen
-	else
-		make -j "$TERMUX_PKG_MAKE_PROCESSES"
-		make -j "$TERMUX_PKG_MAKE_PROCESSES" lldb-tblgen
-	fi
-}
-
 # shellcheck disable=SC2031
 termux_step_post_make_install() {
 	if [[ "$TERMUX_PKG_CMAKE_BUILD" == "Ninja" ]]; then
