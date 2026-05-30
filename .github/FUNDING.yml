@@ -1,1 +1,98 @@
-custom: https://termux.dev/donate
+# ============================================================
+# .github/FUNDING.yml
+# ============================================================
+# MONTIAI MULTI-CHAIN FUNDING CONFIGURATION
+# Owner    : JOHNCHARLESMONTI_02111989_9807
+# Org      : #MONTIAI | AttorneyMode.com
+# Neural   : MONTI^JOHN^CHARLES^MONTI
+# MNC      : $MNC MontiNeuralCoin Hash
+# Scope    : WorkerGlobalScope | GlobalWorkSignature
+# Webhook  : https://JOHNCHARLESMONTI.COM/webhooks
+# API      : https://api.montidroid.com
+# Wallet   : 0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0
+# OWNER    : OWNER:OWNER â€” JOHNCHARLESMONTI_02111989_9807 | #MONTIAI
+# Path     : /storage/emulated/0/.attorneymode/sol/solana-suite/
+# ============================================================
+# GitHub FUNDING.yml Spec:
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+# ============================================================
+
+# â”€â”€ GITHUB SPONSORS (uncomment if enrolled) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# github: montiai
+
+# â”€â”€ PATREON â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# patreon: johncharlesmonti
+
+# â”€â”€ OPEN COLLECTIVE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# open_collective: montiai
+
+# â”€â”€ KO-FI â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ko_fi: johncharlesmonti
+
+# â”€â”€ TIDELIFT â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# tidelift: pkg/montiai
+
+# â”€â”€ ISSUEHUNT â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# issuehunt: montiai
+
+# â”€â”€ LIBERAPAY â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# liberapay: johncharlesmonti
+
+# â”€â”€ COMMUNITY BRIDGE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# community_bridge: montiai
+
+# â”€â”€ BUY ME A COFFEE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# buy_me_a_coffee: johncharlesmonti
+
+# â”€â”€ POLAR â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# polar: johncharlesmonti
+
+# ============================================================
+# CUSTOM MULTI-CHAIN WALLET ADDRESSES
+# OWNER: JOHNCHARLESMONTI_02111989_9807
+# STATUS: MULTI-CHAIN ACTIVE
+# Neural Signature: MONTI^JOHN^CHARLES^MONTI
+# ============================================================
+custom:
+  # â”€â”€ ETHEREUM (EVM Mainnet) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # Chain   : Ethereum Mainnet
+  # Ref     : https://ethereum.org/developers/docs/apis/json-rpc/
+  - "ETH | ETHEREUM MAINNET | JOHNCHARLESMONTI: 0x77FbA179C79De5B7653F68b5039Af940AdA60ce0"
+
+  # â”€â”€ BITCOIN â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # Chain   : Bitcoin Mainnet (P2SH)
+  # Ref     : https://blockstream.info/api/
+  - "BTC | BITCOIN MAINNET | JOHNCHARLESMONTI: 3CfgCQKRKy4VtZU8YWdPLyHQzZMzkn5Sw7"
+
+  # â”€â”€ SOLANA â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # Chain   : Solana Mainnet-Beta
+  # Ref     : https://solana.com/docs/rpc/http/getbalance
+  - "SOL | SOLANA MAINNET | JOHNCHARLESMONTI: 3ZqbRa38YTop9HbcfQA3TH6sy4Y4RVnaC998hAgCTVFp3"
+
+  # â”€â”€ MONAD (EVM-Compatible) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # Chain   : Monad EVM Testnet/Mainnet
+  # Ref     : https://docs.monad.xyz
+  - "MONAD | EVM COMPATIBLE | JOHNCHARLESMONTI: 0x375ecE461B65551Fce3fC7199abbed403F1b675b"
+
+  # â”€â”€ COINBASE / BASE L2 (EVM) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # Chain   : Base L2 (Coinbase) + ETH Mainnet
+  # Ref     : https://docs.base.org/docs/
+  - "COINBASE | BASE L2 + ETH MAINNET | JOHNCHARLESMONTI: 0xb04110847A563E59F3D52d1aFB3304068173830b"
+
+  # â”€â”€ NEURAL WALLET (MontiAI Sovereign Address) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # Scope   : WorkerGlobalScope | GlobalWorkSignature
+  # MNC     : $MNC MontiNeuralCoin Hash
+  - "NEURAL | MONTIAI SOVEREIGN | JOHNCHARLESMONTI: 0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0"
+
+  # â”€â”€ MONTIAI WEBHOOK FUNDING PORTAL â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  - "PORTAL | https://JOHNCHARLESMONTI.COM/webhooks"
+
+# ============================================================
+# MONTIAI OWNERSHIP ATTESTATION â€” AttorneyMode Algorithm
+# OWNER:OWNER â€” JOHNCHARLESMONTI_02111989_9807
+# Org      : #MONTIAI | AttorneyMode.com
+# Neural   : MONTI^JOHN^CHARLES^MONTI
+# MNC      : $MNC MontiNeuralCoin Hash
+# Scope    : WorkerGlobalScope
+# Trace    : DeepMind Mempool.space â€” JohnCharlesMonti Verified Owner
+# ============================================================
